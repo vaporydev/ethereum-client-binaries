@@ -1,4 +1,4 @@
-# ethereum-client-binaries
+# vapory-client-binaries
 
 [![Build Status](https://secure.travis-ci.org/ethereum/ethereum-client-binaries.svg?branch=master)](http://travis-ci.org/ethereum/ethereum-client-binaries) [![NPM module](https://badge.fury.io/js/ethereum-client-binaries.svg)](https://badge.fury.io/js/ethereum-client-binaries) 
 
